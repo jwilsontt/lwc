@@ -1,0 +1,587 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Join",
+				"JoinForm"
+			],
+			[
+				"get_",
+				"get_or_create"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"new",
+				"new_join_old"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"new_join",
+				"new_join_old"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"place",
+				"place_path"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"nav",
+				"navbar-left"
+			],
+			[
+				"navbar",
+				"navbar-form"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"rev",
+				"reviews"
+			],
+			[
+				"navb",
+				"navbar-brand"
+			],
+			[
+				"input",
+				"input_html"
+			],
+			[
+				"book",
+				"book_path"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"inpu",
+				"input_html"
+			],
+			[
+				"html",
+				"html_safe"
+			],
+			[
+				"respond_",
+				"respond_to"
+			],
+			[
+				"tas",
+				"tasks"
+			],
+			[
+				"link",
+				"link_to"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"ho",
+				"home"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/lwc/urls.py",
+			"settings":
+			{
+				"buffer_size": 294,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 214,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/lwc/settings.py",
+			"settings":
+			{
+				"buffer_size": 2149,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 2650,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/joins/models.py",
+			"settings":
+			{
+				"buffer_size": 368,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/joins/forms.py",
+			"settings":
+			{
+				"buffer_size": 232,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/joins/views.py",
+			"settings":
+			{
+				"buffer_size": 824,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jasonwilson/Documents/ProgWork/lwc/src/templates/navbar.html",
+		"/Users/jasonwilson/Documents/ProgWork/lwc/src/joins/admin.py",
+		"/Users/jasonwilson/Documents/ProgWork/lwc/src/joins/views.py",
+		"/Users/jasonwilson/Documents/ProgWork/lwc/src/lwc/views.py",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/views/places/index.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/views/reviews/edit.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/controllers/reviews_controller.rb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/views/pages/dashboard.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/controllers/places_controller.rb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/views/layouts/_header.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/models/place.rb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/views/pages/home.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/assets/stylesheets/pages.scss",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/views/layouts/application.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/config/routes.rb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/controllers/pages_controller.rb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/views/places/show.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/models/review.rb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/db/migrate/20150615133640_add_total_average_rating_to_places.rb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/views/reviews/_form.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/views/reviews/_review.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/assets/javascripts/raty.js",
+		"/Users/jasonwilson/Downloads/raty-2.7.0/lib/jquery.raty.js",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/db/migrate/20150614122550_add_score_to_reviews.rb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/models/user.rb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/Gemfile",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/views/places/_form.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/config/initializers/simple_form.rb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/views/devise/registrations/edit.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/assets/stylesheets/application.css",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/assets/stylesheets/pages.css",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/assets/stylesheets/pages.css.scss",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/views/devise/registrations/new.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/stukplaces/app/controllers/registrations_controller.rb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/views/layouts/application.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/Gemfile",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/config/initializers/devise.rb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/controllers/pages_controller.rb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/views/pages/dashboard.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/views/pages/_books.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/views/pages/_sales.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/views/pages/_purchased.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/models/sale.rb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/controllers/transactions_controller.rb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/db/migrate/20150609024501_create_sales.rb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/views/transactions/pickup.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/views/books/show.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/config/routes.rb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/.env",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/config/initializers/stripe.rb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/models/book.rb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/controllers/books_controller.rb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/views/pages/home.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/views/books/_book.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/config/application.rb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/views/books/_form.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/.gitignore",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/models/ability.rb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/controllers/application_controller.rb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/views/layouts/_header.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/views/books/new.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/views/books/edit.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/models/user.rb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/views/books/index.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/db/migrate/20150605134433_create_books.rb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/assets/stylesheets/devise.css.scss",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/app/views/devise/sessions/new.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/config/initializers/simple_form.rb",
+		"/Users/jasonwilson/Documents/ProgWork/estuk/config/environments/development.rb",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/config/database.yml",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/Gemfile",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/app/models/task.rb",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/app/controllers/pages_controller.rb",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/app/views/tasks/edit.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/app/views/tasks/new.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/app/views/tasks/_task.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/app/views/tasks/_form.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/config/initializers/devise.rb",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/config/routes.rb",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/app/views/tasks/show.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/db/migrate/20150531223855_rename_context_tocontent.rb",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/db/migrate/20150530124211_create_tasks.rb",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/db/migrate/20150531213509_add_state_to_tasks.rb",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/app/views/devise/registrations/new.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/app/controllers/tasks_controller.rb",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/app/views/devise/registrations/edit.html.erb",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/app/models/user.rb",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/app/assets/stylesheets/devise.css.scss",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/config/environments/development.rb",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/app/assets/stylesheets/application.css",
+		"/Users/jasonwilson/Documents/ProgWork/firstROR/stukdo/app/views/layouts/application.html.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/lwc/urls.py",
+					"settings":
+					{
+						"buffer_size": 294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/templates/home.html",
+					"settings":
+					{
+						"buffer_size": 214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/lwc/settings.py",
+					"settings":
+					{
+						"buffer_size": 2149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1017,
+								1017
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 437.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 2650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2086,
+								2086
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 757.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/joins/models.py",
+					"settings":
+					{
+						"buffer_size": 368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/joins/forms.py",
+					"settings":
+					{
+						"buffer_size": 232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/joins/views.py",
+					"settings":
+					{
+						"buffer_size": 824,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 2.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true
+}
