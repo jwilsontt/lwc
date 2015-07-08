@@ -47,6 +47,7 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'lwc.middleware.ReferMiddleware',
 )
 
 ROOT_URLCONF = 'lwc.urls'
@@ -76,6 +77,8 @@ USE_I18N = True
 USE_L10N = True
 
 USE_TZ = True
+
+SHARE_URL = "http://127.0.0.1:8000/?ref="
 
 TEMPLATE_DIRS = (
     os.path.join(BASE_DIR, 'templates'),
