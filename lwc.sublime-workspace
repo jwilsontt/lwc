@@ -175,7 +175,7 @@
 			"file": "src/templates/share.html",
 			"settings":
 			{
-				"buffer_size": 914,
+				"buffer_size": 2554,
 				"line_ending": "Unix"
 			}
 		},
@@ -215,7 +215,7 @@
 			"file": "src/templates/base.html",
 			"settings":
 			{
-				"buffer_size": 2718,
+				"buffer_size": 2838,
 				"line_ending": "Unix"
 			}
 		},
@@ -395,7 +395,7 @@
 	"groups":
 	[
 		{
-			"selected": 9,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -416,7 +416,8 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage"
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -446,7 +447,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 5.0,
-						"translation.y": 578.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -456,15 +457,15 @@
 					"file": "src/templates/share.html",
 					"settings":
 					{
-						"buffer_size": 914,
+						"buffer_size": 2554,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								96,
-								96
+								1826,
+								1826
 							]
 						],
 						"settings":
@@ -472,7 +473,7 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 996.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -588,15 +589,15 @@
 					"file": "src/templates/base.html",
 					"settings":
 					{
-						"buffer_size": 2718,
+						"buffer_size": 2838,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1254,
-								1254
+								1028,
+								921
 							]
 						],
 						"settings":
@@ -606,7 +607,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 553.0,
+						"translation.y": 306.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -629,7 +630,9 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 111.0,
