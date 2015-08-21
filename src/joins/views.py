@@ -45,7 +45,7 @@ def home(request):
 		join_id = request.session['join_id_ref']
 		obj =  Join.objects.get(id=join_id)
 	except:
-		join_id = None
+		obj = None
 
 
 	form = JoinForm(request.POST or None)

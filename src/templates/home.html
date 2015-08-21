@@ -1,6 +1,27 @@
 {% extends "base.html" %}
 {% load staticfiles %}
 
+
+{% block styles %}
+
+ <style>
+      body {
+        border-top: 4px solid #E47541;
+        /*min-height: 5000px;*/
+        /*min-width: 5000px;*/
+        background: url('{% static "img/20100726_Kalamitsi_Beach_Ionian_Sea_Lefkada_island_Greece.jpg" %}') no-repeat center center fixed;
+
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        /*background-image: url('{% static "img/20100726_Kalamitsi_Beach_Ionian_Sea_Lefkada_island_Greece.jpg" %}');*/
+      }
+      
+
+  </style>
+
+{% endblock %}
 {% block content %}
 
 
@@ -9,8 +30,8 @@
       <div class="container">
       <div class="col-sm-6">
         <h1>Hello, world!</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
+        <p> Use it as a starting point to create something more unique.</p>
+        <p><a class="btn btn-default btn-lg btn-block" href="#signup" role="button">Be First &raquo;</a></p>
       </div>
 
       <div class="col-sm-6">
@@ -19,15 +40,97 @@
       </div>
     </div>
     
-<hr/>
-<div class='container' style='text-align:center;'>
 
-<h1>Hello, welcome home</h1>
+    <div class='container' style='text-align:center;' id="signup">
+      <div class='col-sm-6 col-sm-offset-3'>
+        <i class="fa fa-unlock fa-5x"></i>
 
-<form method="POST" action=""> {% csrf_token %} 
-{{ form.as_p }}
-<input type='submit' value='Join' class='btn'>
-</form>
+        <h1>Unlock First</h1>
+
+        <form method="POST" action=""> {% csrf_token %} 
+          <div class='form-group form-group-lg'>
+            {{ form.email.errors }}
+            <div class="input-group">
+              <input class='form-control' type="email" name="email" placeholder="Your email..."/>
+              <span class='input-group-btn'>
+                <input type='submit' value='Join' class='btn btn-primary btn-lg' />
+              </span>
+            </div>
+          </div>
+        </form>
+        <p class="lead">Sign up here. </br> Get first news on content. </p>
+      </div>
+</div>
+
+<div class='row' style='text-align:center;background-color:white;margin-top:;min-height:200px; padding-top: 30px;'>
+  <div class='col-sm-12'>
+  
+    <div class='row'>
+      <div class='col-sm-3'>
+        <i class="fa fa-upload fa-3x"></i>
+        <h2>Feature</h2>
+        <p class='lead'>
+          Some feature text goes here.
+        </p>
+      </div>
+      <div class='col-sm-3'>
+        <i class="fa fa-upload fa-3x"></i>
+        <h2>Feature</h2>
+        <p class='lead'>
+          Some feature text goes here.
+        </p>
+      </div>
+      <div class='col-sm-3'>
+        <i class="fa fa-upload fa-3x"></i>
+        <h2>Feature</h2>
+        <p class='lead'>
+          Some feature text goes here.
+        </p>
+      </div>
+      <div class='col-sm-3'>
+        <i class="fa fa-upload fa-3x"></i>
+        <h2>Feature</h2>
+        <p class='lead'>
+          Some feature text goes here.
+        </p>
+      </div>
+  </div>
+    <hr/>
+  </div>
+</div>
+
+<div class='row' style='text-align:center;background-color:white;margin-bottom: 80px 0px;min-height:200px; padding-top:30px;'>
+  <div class='col-sm-12'>
+   
+    <div class='col-sm-3'>
+        <i class="fa fa-upload fa-3x"></i>
+        <h2>Feature</h2>
+        <p class='lead'>
+          Some feature text goes here.
+        </p>
+      </div>
+      <div class='col-sm-3'>
+        <i class="fa fa-upload fa-3x"></i>
+        <h2>Feature</h2>
+        <p class='lead'>
+          Some feature text goes here.
+        </p>
+      </div>
+      <div class='col-sm-3'>
+        <i class="fa fa-upload fa-3x"></i>
+        <h2>Feature</h2>
+        <p class='lead'>
+          Some feature text goes here.
+        </p>
+      </div>
+      <div class='col-sm-3'>
+        <i class="fa fa-upload fa-3x"></i>
+        <h2>Feature</h2>
+        <p class='lead'>
+          Some feature text goes here.
+        </p>
+      </div>
+  </div>
 </div>
 
 {% endblock %}

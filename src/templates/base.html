@@ -15,7 +15,7 @@
     <title>Launch with Code</title>
 
     <!-- Bootstrap core CSS 
-    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet"> 
 -->
     <!-- Custom styles for this template -->
     <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
@@ -41,6 +41,20 @@
     .navbar-inverse .navbar-brand, .navbar-brand:hover {
       color: white;
     }
+
+    .navbar-inverse {
+      background-color: #E47541 !important;
+      border-color: #E47541 !important;
+    }
+
+    .jumbotron h1 {
+        font-weight: 100; 
+      }
+
+      .jumbotron p {
+        font-weight: 100; 
+        font-size: 30px;
+      }
     </style>
     {% block styles %}
     {% endblock %}
@@ -69,13 +83,14 @@
      {% endblock %}   
      
     </div>
-
-   <div class="container">
-      <hr>
+  <div class="row" style="margin-top:80px;background-color:grey;">
+   <div class="container" style='text-align:center; padding: 20px;'>
       <footer>
         <p>&copy; Company 2014</p>
       </footer>
-    </div> <!-- /container -->
+    </div> 
+  </div>
+    <!-- /container -->
 
 
     <!-- Bootstrap core JavaScript
